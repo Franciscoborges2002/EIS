@@ -50,3 +50,11 @@ Fluctuatung demand for services
 - #### Demand condition:
         the provider offers incentives to costumers to use th service in off-peak periods
     - Happy hours, discounts at certain times
+
+---
+---
+---
+
+# 19/02/2024
+
+## Notas sobre a nossa apresentação
