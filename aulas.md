@@ -114,3 +114,48 @@ The axioms os S-D are more then the artivle
 We have only the products
 
 - Core product with added 
+
+# 11/03/2024
+
+covergencia: juntar duas ofertas
+
+Generativity - Os utilizadores adicionionam informacao para a plataforma, criar recursos que sao uteis para todos os utilizadores
+
+## Notas sobre a aula
+### Distributed Innovation
+Digital Tech enable a redution of communication and coordination cost, which leads to a geographical dispersion of innovation activities
+
+Colaborar com pessoas em muitos sitios
+
+- Agora qualquer pessoa com os recursos certos pode fazer inovacao
+- inovacao ja nao e em sitios especificos
+- As orgs tambem tem explorar a sua periferia como pontos de inovacao
+- Ha cada vez mais geterogeneadade, juntar mais recursos, cinhecimento mais diversificados, por causa desta distribuicao
+
+Nao podemos estar centrados no que apenas sabemos fazer
+
+### 3 implicacoes / o trab vai estar aqui
+- 1. Integrar recursos muito diversos, comecamos a ter cada vez mais equipas que se juntam temporariamente, como conhecimentos espeficificos, tipo task force
+- Exemplo: Industria automovel nao consegue explorar muito a inovacao, por exemplo o onboard era horrivel ha 5 anos
+- 2. Ao mesmo tempo que criamos uma algo, e depois outros podem inovar a volta do nosso exosistema
+- Exemplo: AWS
+- 3. Emergence of new undustrial structure and distribution forms
+- long tail: aumentar a exposicao de pessoas que nao tem tanto reconhecimento
+- superstars: pessoas que ja vendem bem
+
+### Combinacao inovatoria
+- Produtos digitais, podemos gerar muitos produtos, pois podemos usar a modelaridade.
+- A modulatidade ]e um ponto crucial para a combitional innovation
+- Os smartphones sao vendidos iguais por base, e depois as pessoas podem adicionar aplicaoes entre outros
+
+### Organizations must build environments for constrained serendipity
+- serendipity: andar a sorte, andar a deriva mas indo encontrando coisas
+- essa serenpidity mas no meio online
+- affordances of digital tools: as pessoas ao encontrar as ferramenta que ao usar conseguem gerar novas combinacoes
+Maior parte delas nao vao ser usadas, mas algumas vao ser
+
+### Innovation adoption
+- Ja nao e sobre a curva em S
+- Uma das carateristicas da tech, as tech vao ser adotadas, pois elas vai evoluir ao longo do tempo, vai se moldando as circunstancias do dia a dia das pessoas
+
+Olhar para os nossos temas, pensar como poderiamos *(assumir algum tipo de plataforma digital). Como podem ser aplicadas nos nossos temas, por muitas entidades diferentes a colaborar e ao mesmo tempo gerar novas combinacoes e adotando as melhores combinacoes.
