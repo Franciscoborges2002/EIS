@@ -130,7 +130,7 @@ Colaborar com pessoas em muitos sitios
 - Agora qualquer pessoa com os recursos certos pode fazer inovacao
 - inovacao ja nao e em sitios especificos
 - As orgs tambem tem explorar a sua periferia como pontos de inovacao
-- Ha cada vez mais geterogeneadade, juntar mais recursos, cinhecimento mais diversificados, por causa desta distribuicao
+- Ha cada vez mais heterogeneadade, juntar mais recursos, conhecimentos mais diversificados, por causa desta distribuicao
 
 Nao podemos estar centrados no que apenas sabemos fazer
 
@@ -159,3 +159,16 @@ Maior parte delas nao vao ser usadas, mas algumas vao ser
 - Uma das carateristicas da tech, as tech vao ser adotadas, pois elas vai evoluir ao longo do tempo, vai se moldando as circunstancias do dia a dia das pessoas
 
 Olhar para os nossos temas, pensar como poderiamos *(assumir algum tipo de plataforma digital). Como podem ser aplicadas nos nossos temas, por muitas entidades diferentes a colaborar e ao mesmo tempo gerar novas combinacoes e adotando as melhores combinacoes.
+
+# 28/03/2024
+
+Os exemplos deviam estar mais aprofundados, demos exemplos muito genericos
+
+## Notas sobre a aula
+
+### Digital Innovation
+* helping structure the area of innovation
+* in my area how can i have more impact?
+* example: ipod, introduced the subscription model to all world, only by changing the way people made the payments
+* Enterprises inovate in more than 1 area, at least 2 or 3 
+* Teacher says to explore to 3 examples, try to find real examples, andexplain well why those examples *encaixam* in that 10 areas
