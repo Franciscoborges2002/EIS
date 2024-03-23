@@ -171,4 +171,4 @@ Os exemplos deviam estar mais aprofundados, demos exemplos muito genericos
 * in my area how can i have more impact?
 * example: ipod, introduced the subscription model to all world, only by changing the way people made the payments
 * Enterprises inovate in more than 1 area, at least 2 or 3 
-* Teacher says to explore to 3 examples, try to find real examples, andexplain well why those examples *encaixam* in that 10 areas
+* Teacher says to explore to 3 examples, try to find real examples, andexplain well why those examples *encaixam* in that 10 areasspan
